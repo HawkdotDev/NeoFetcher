@@ -1,2 +1,2 @@
-# neoTorrent
-torrent client with modern cool UI
+# neoBitFetcher
+Client with modern cool UI
