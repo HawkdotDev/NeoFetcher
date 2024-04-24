@@ -1,0 +1,15 @@
+{
+  "name": "neobitfetcher",
+  "version": "1.0.0",
+  "description": "Client with modern cool UI",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HawkdotDev",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
